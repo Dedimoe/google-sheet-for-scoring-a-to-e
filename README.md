@@ -2,7 +2,7 @@
 google-sheet-for-scoring-a-to-e
 
 
->3.5 - 4.0 score A
+> >3.5 - 4.0 score A
 
 >2.5 - 3.5 score B
 
